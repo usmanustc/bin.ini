@@ -1,4 +1,4 @@
-# bin.ini
+# Bin.INI
 _Welcome to this repository !_ 
 
 This repository contains the code and data used in the paper:
