@@ -3,7 +3,7 @@ _Welcome to this repository !_
 
 This repository contains the code and data used in the paper:
 
-__Bin.INI: An Ensemble Approach for Dynamic Data Streams__, Submitted to Expert Systems with Applications, 2024. 
+__Bin.INI: An Ensemble Approach for Dynamic Data Streams__, Expert Systems with Applications, 2024. 
 
 The main code file is available at the root folder in the form of Jupyter Notebook. The code is written in Python and may require some libraries to be installed prior to running. A script is included that generates missing values in a given ARFF data stream. The data streams used in the experiments are also available in a folder at root. The synthetic data streams could be generated using MOA Framework with the scripts given in the folder.
 
